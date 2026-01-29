@@ -76,7 +76,7 @@ Experiments were run across multiple sparsity levels to identify the optimal bal
 - Architecture-aware pruning delivered:
   - ~40% increase in inference speed
   - Only modest PSNR degradation at higher sparsity levels
-- Demonstrated that **structure-preserving pruning** is essential for compressing VFI models.
+- Demonstrated that structure-preserving pruning enables effective compression of VFI models for efficient inference in low-resource environments.
 
 Detailed results are exported as:
 - `pruning_experiments_table.csv`
